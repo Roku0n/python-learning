@@ -10,8 +10,7 @@ else:
     print("You are a minor.")
 # 3.1.2 elif
 score = 75
-# 声明变量必须赋值哦,None是个占位值
-grade = None
+grade = None#声明变量必须赋值哦,None是个占位值
 if score >= 93:
     grade = "A"
 elif score >= 90:
